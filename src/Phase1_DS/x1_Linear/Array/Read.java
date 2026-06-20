@@ -1,6 +1,4 @@
-package DataStructure.Linear.Array;
-
-import java.util.Arrays;
+package Phase1_DS.x1_Linear.Array;
 
 public class Read {
     

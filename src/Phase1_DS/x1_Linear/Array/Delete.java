@@ -1,4 +1,4 @@
-package DataStructure.Linear.Array;
+package Phase1_DS.x1_Linear.Array;
 
 import java.util.Arrays;
 
