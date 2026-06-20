@@ -34,7 +34,14 @@ public class CRUD {
         for(int i=0;i<arr2.length;i++){
             System.out.print(arr2[i]+",");
         }
+
+        // 2. For-Each Loop (Read it as: "For every 'num' inside 'numbers'")
+        for (int num : arr2) {
+            System.out.println(num);
+        }
         System.out.println();
+
+
     //-----Deleting an element from an array------
 
     // In Java, arrays have a fixed size once initialized,
