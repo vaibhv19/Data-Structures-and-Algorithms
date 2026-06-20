@@ -17,7 +17,7 @@
 - [ ] **Trees (Binary Search Trees):** Understand root nodes, leaf nodes, left/right child allocations, and basic node insertion and lookup constraints.
 - [ ] **Graphs:** Understand real-world entity routing (Nodes and Edges). Master representing graphs using an Adjacency List (`ArrayList<ArrayList<Integer>>` or `HashMap<Integer, List<Integer>>`).
 
-### 3. Java Collections Framework (JCF) *(Added Framework Module)*
+### 3. Java Collections Framework (JCF) 
 - [ ] **Industrial Tooling:** Master the concrete implementations within the `java.util` package. Focus on utilizing `ArrayList` for dynamic array mutations, `ArrayDeque` to model performance-optimal Stacks and Queues, `HashMap`/`HashSet` for predictive key indexing, and `PriorityQueue` combined with lambda sorting comparators (e.g., `(a, b) -> b - a`) for building custom heaps.
 
 ---
@@ -44,7 +44,7 @@
 | **13. Tree Traversals** | Utilizing specialized depth strategies (DFS) or level-by-level queuing (BFS) on structural layouts. | O(n) | • Binary Tree Level Order Traversal<br>• Lowest Common Ancestor<br>• Validate BST |
 | **14. Graph Routings** | Traversing interconnected nodes via structural connectivity matrices or tracking optimal weights. | O(V+E) | • Number of Islands<br>• Rotten Oranges<br>• Dijkstra's Algorithm |
 | **15. Dynamic Programming** | Optimizing recursive workflows by breaking them down and caching sub-problem results. | Dependent on States | • Climbing Stairs<br>• House Robber<br>• 0/1 Knapsack |
-| **16. Bit Manipulation** *(Added Framework Module)* | Dropping down to the raw binary bit level to manipulate digits using native logical operators (AND, OR, XOR, logical shifts) for optimized mask flag checking. | O(1) | • Single Number<br>• Number of 1 Bits<br>• Counting Bits |
+| **16. Bit Manipulation**  | Dropping down to the raw binary bit level to manipulate digits using native logical operators (AND, OR, XOR, logical shifts) for optimized mask flag checking. | O(1) | • Single Number<br>• Number of 1 Bits<br>• Counting Bits |
 
 ---
 
