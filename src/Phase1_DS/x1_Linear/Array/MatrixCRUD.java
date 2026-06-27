@@ -110,3 +110,5 @@ public class MatrixCRUD {
         sc.close();
     }
 }
+
+// Solved LeetCode #1672 (Richest Customer Wealth)
