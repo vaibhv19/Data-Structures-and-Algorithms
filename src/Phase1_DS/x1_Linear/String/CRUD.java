@@ -48,5 +48,3 @@ System.out.println(hero);
 }
 }
 // String is immutable
-
-// Solved LeetCode #344 (Reverse String) & #28 (Find the Index of the First Occurrence)
